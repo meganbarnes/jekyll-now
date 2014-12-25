@@ -13,6 +13,7 @@
 /* BASE RULES */
 /**************/
 
+/* 
 html {
   font-size: 100%;
 }
@@ -127,7 +128,9 @@ img {
   font-style: italic;
   color: $gray;
 }
+ */
 
+/* 
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
@@ -150,10 +153,7 @@ img {
     clear: both;
 }
 
-/*********************/
-/* LAYOUT / SECTIONS */
-/*********************/
-
+*******************LAYOUT / SECTIONS*******************
 //
 // .masthead
 //
@@ -291,6 +291,8 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+ */
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
