@@ -24,11 +24,14 @@ body {
 }
 
 .container {
-	background-image: url("http://www.homestarrunner.com/wallpapers/macbkgd2.gif");
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+}
+
+#mainhome {
+  background-image: url("http://www.homestarrunner.com/wallpapers/macbkgd2.gif");
 }
 
 h1, h2, h3, h4, h5, h6 {
