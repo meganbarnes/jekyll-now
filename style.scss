@@ -23,15 +23,15 @@ body {
 }
 
 #mainhome {
-  position: static;
+  position: relative;
 }
 
 .page-background {
 	background-image: url("http://www.homestarrunner.com/wallpapers/macbkgd2.gif");
 	z-index: -1;
 	width: 100vw;
-	height: 105vh;
-	position: fixed;
+	height: 100vh;
+	position: relative;
 	background-size:cover;
 	background-position: top;
 }
