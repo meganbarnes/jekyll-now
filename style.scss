@@ -25,10 +25,7 @@ body {
 .page-background {
 	background-image: url("http://www.homestarrunner.com/wallpapers/macbkgd2.gif");
 	z-index: -1;
-	position: static;
-
-	width: 100vw;
-	height: 100vh;
+	position: fixed;
 	background-size:cover;
 	background-position: top;
 }
