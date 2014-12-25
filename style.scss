@@ -22,6 +22,10 @@ body {
   color: $darkGray;
 }
 
+#mainhome {
+  position: static;
+}
+
 .page-background {
 	background-image: url("http://www.homestarrunner.com/wallpapers/macbkgd2.gif");
 	z-index: -1;
