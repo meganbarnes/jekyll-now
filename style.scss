@@ -31,7 +31,7 @@ body {
 	z-index: -1;
 	width: 100vw;
 	height: 100vh;
-	position: relative;
+	position: fixed;
 	background-size:cover;
 	background-position: top;
 }
@@ -280,7 +280,7 @@ nav {
 }
 
 .wrapper-footer {
-  position: static;
+  position: relative;
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
