@@ -82,6 +82,13 @@
 }
 
 
+@include mobile {
+	.homepage-background{
+		background-position: left top;
+	}
+}
+
+
 /* centering content */
 
 /* header */
