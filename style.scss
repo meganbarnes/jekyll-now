@@ -13,6 +13,7 @@
 
 .header{
 	display: block;
+	padding: 5px 15px 5px 15px;
 }
 
 #mainhome{
@@ -20,6 +21,9 @@
 
 	h1{
 		display: inline-block;
+		float: left;
+		position: relative;
+		left: 30%;
 		margin-left: 5px;
 		margin-right:5px;
 		font-size:12px;
