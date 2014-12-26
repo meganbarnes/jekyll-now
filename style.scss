@@ -13,9 +13,13 @@
 
 #mainhome{
 	text-align:center;
+	
+	.header {
+		display: block;
+	}
 
 	h1{
-		display: block;
+		display: inline-block
 		margin-left: 5px;
 		margin-right:5px;
 		font-size:12px;
