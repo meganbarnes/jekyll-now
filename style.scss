@@ -173,11 +173,24 @@ nav{
   transition: width .25s;
 }
 
+.pages.last > a:after,
+.pages:last-child > a:after {
+  display: none;
+}
+
 .pages a.active {
   color: #333333;
 }
 .pages a.active:before {
   width: 100%;
+}
+
+.pages.align-right.last > a:after,
+.pages.align-right:last-child > a:after {
+  display: block;
+}
+.pages.align-right:first-child a:after {
+  display: none;
 }
 
 @media screen and (max-width: 768px) {
