@@ -57,10 +57,15 @@
 	vertical-align: text-top;
 }
 
-
 #mouse {
 	height: 5vw;
 	width: auto;
+}
+
+@include mobile {
+	.mouse{
+		display: none;
+	}
 }
 
 /* background image */
