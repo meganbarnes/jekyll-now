@@ -13,10 +13,6 @@
 
 #mainhome{
 	text-align:center;
-	
-	.header{
-		display: block;
-	}
 
 	h1{
 		display: inline-block
@@ -30,6 +26,10 @@
 		margin:0;
 	}
 
+}
+
+.header{
+	display: block;
 }
 
 /* background image */
