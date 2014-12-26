@@ -88,6 +88,11 @@
 
 .wrapper-masthead{
 	display: block;
+	
+	nav{
+		position: absolute;
+		right: 5px;
+	}
 }
 
 .site-info{
