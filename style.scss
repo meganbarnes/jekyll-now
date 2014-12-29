@@ -94,7 +94,7 @@
 /* header */
 
 .wrapper-masthead {
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 
 .masthead {
@@ -161,6 +161,23 @@
       color: $blue;
     }
   }
+}
+
+.masthead .clearfix:before,
+.masthead .clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.masthead .clearfix:after {
+    clear: both;
+}
+
+.masthead .container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
 }
 
 
