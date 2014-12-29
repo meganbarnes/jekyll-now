@@ -109,6 +109,7 @@
 
 .masthead .site-info {
   float: left;
+  margin: 10px;
 
   @include mobile {
     float: none;
