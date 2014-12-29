@@ -103,10 +103,6 @@
 
 /* header */
 
-.wrapper-masthead {
-  margin-bottom: 30px;
-}
-
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
@@ -225,6 +221,12 @@ nav{
 		color:#ddd;
 		background: #0071a7;
 	}
+}
+
+/* content */
+
+article{
+	background: $white;
 }
 
 
