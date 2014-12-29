@@ -96,7 +96,7 @@
 	width: 100vw;
 	height: 100vh;
 	background-size:cover;
-	background-position: center center;
+	background-position: center bottom;
 }
 
 /* centering content */
@@ -226,7 +226,7 @@ nav{
 /* content */
 
 .content-wrapper{
-	max-width: calc(800px - (30px * 2));
+	max-width: calc(800px - (15px * 2));
 	height: 100vh;
 	margin-right: auto;
 	margin-left: auto;
