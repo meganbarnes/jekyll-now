@@ -94,7 +94,7 @@
 /* header */
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 .masthead {
@@ -103,23 +103,6 @@
   
   @include mobile {
     text-align: center;
-  }
-}
-
-.masthead .site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-  img {
-    border-radius: 5px;
   }
 }
 
