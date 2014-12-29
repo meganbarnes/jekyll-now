@@ -135,6 +135,8 @@
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
+  font-family: "Ubuntu";
+  padding: 5px;
   
   @include mobile {
     margin: 3px 0;
