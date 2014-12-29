@@ -7,7 +7,8 @@
 
 @import "_reset";
 @import "_variables";
-@import url(http://fonts.googleapis.com/css?family=Inconsolata:700);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,300,500);
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400);
 // Syntax highlighting @import is at the bottom of this file
 
 /* homepage-specific styles */
@@ -34,7 +35,7 @@
      	opacity: 0.9;
 		padding:5px 15px 5px 15px;
 		margin:0;
-		font-family: 'Inconsolata';
+		font-family: 'Raleway', sans-serif;
 	}
 
 }
