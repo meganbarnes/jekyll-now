@@ -225,16 +225,15 @@ nav{
 
 /* content */
 
-article{
-	background: $white;
-}
-
 .content-wrapper{
 	max-width: calc(800px - (30px * 2));
+	height: 100vh;
 	margin-right: auto;
 	margin-left: auto;
 	padding-right: 30px;
 	padding-left: 30px;
+	background: $white;
+	background-size: cover;
 }
 
 
