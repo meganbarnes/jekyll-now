@@ -17,6 +17,6 @@ Natural language processing, machine learning, artificial intelligence, statisti
 Making cool things, music (choral for performing, hip hop for listening), linguistic theory, intersectional feminism, twitter, logic, comedy
 
 ### Contact me
-[Resume](images/404.jpg)
+[Resume](/images/jekyll-logo.png)
 
 [E-mail](mailto:meg.rose.barnes@gmail.com)
