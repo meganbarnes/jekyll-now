@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 Third year undergrad at the University of Chicago, studying linguistics and computer science.   
+
 I'm interested in the intersection of computers and people.  I'm passionate about data - organized beautifully and used to better understand humans and how they work.  My focus is natural language processing, but I'm jazzed about any and all ways to draw meaningful conclusions about humans from data.   
 
 
