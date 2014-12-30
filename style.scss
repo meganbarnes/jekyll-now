@@ -93,7 +93,8 @@
 	background-image: url("http://www.homestarrunner.com/wallpapers/macbkgd2.gif");
 	z-index: -1;
 	position: absolute;
-
+	max-width: 100%;
+	height: auto;
 	background-size:contain;
 }
 
