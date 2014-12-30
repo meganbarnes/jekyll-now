@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Alt text](/images/jekyll-logo.png)
+![Alt text](/images/photo.jpg)
 
 Third year undergrad at the University of Chicago, studying linguistics and computer science.    
     
