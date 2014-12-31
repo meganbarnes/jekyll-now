@@ -19,4 +19,5 @@ Natural language processing, machine learning, artificial intelligence, statisti
 Making cool things, music (choral for performing, hip hop for listening), linguistic theory, intersectional feminism, twitter, logic, comedy
 
 ### Resources
+
 [Check out my resume](/images/Resume.pdf) [Shoot me an e-mail](mailto:meg.rose.barnes@gmail.com)
