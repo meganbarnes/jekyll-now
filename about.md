@@ -16,8 +16,8 @@ Natural language processing, machine learning, artificial intelligence, statisti
 
 ### Other Interests
 
-Making cool things, music (choral for performing, hip hop for listening), linguistic theory, intersectional feminism, twitter, logic, comedy
+Making cool things, music (choral for performing, hip hop for listening), linguistic theory, iced coffee, intersectional feminism, twitter, logic, comedy
 
-### Resources
+->### Resources<-
 
-[Check out my resume](/images/Resume123114.pdf) [Shoot me an e-mail](mailto:meg.rose.barnes@gmail.com)
+->[Check out my resume](/images/Resume123114.pdf) [Shoot me an e-mail](mailto:meg.rose.barnes@gmail.com)<-
