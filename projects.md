@@ -14,8 +14,7 @@ I work for Knowledge Lab, part of the Computation Institute through The Universi
 
 * I am also working on a project to create a network of Wikipedia editors based on their activity on political and science pages in order to uncover insights about how political leanings affect the propogation of scientific knowledge.
 
-###
-###
+
 ### Also...
 
 [My repository contributions](http://github.com/meganbarnes)
