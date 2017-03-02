@@ -90,14 +90,7 @@
 }
 
 .page-background{
-	background-image: url("http://www.homestarrunner.com/wallpapers/macbkgd2.gif");
-	z-index: -1;
-	position: absolute;
-
-	height: 85vh;
-	width: 100vw;
-	background-size:cover;
-	background-position: center bottom;
+	background: $white;
 }
 
 /* centering content */
@@ -238,7 +231,6 @@ nav{
 	padding-right: 30px;
 	padding-left: 30px;
 	background: $white;
-	opacity: 0.9;
 	background-size: cover;
 }
 
