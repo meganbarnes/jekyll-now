@@ -6,7 +6,7 @@ permalink: /projects/
 
 ![Alt text](/images/Screen Shot 2017-03-01 at 10.15.20 PM.png)
 
-## Init.ai
+### Init.ai
 
 I work at [Init.ai](http://init.ai), building machine learning tools and backend infrastructure.  
 
