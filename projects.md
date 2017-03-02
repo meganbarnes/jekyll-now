@@ -20,8 +20,6 @@ I have worked for Knowledge Lab, part of the Computation Institute through The U
 
 * Creating a network of Wikipedia editors based on their activity on political and science pages in order to uncover insights about how political leanings affect the propogation of scientific knowledge.
 
-![Alt text](/images/klab.png)
-
 
 ### Also...
 
