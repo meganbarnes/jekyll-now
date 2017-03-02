@@ -4,4 +4,4 @@ title: Blog
 permalink: /blog/
 ---
 
-### New posts coming soon...
+### [Check out my posts on Medium!](https://medium.com/@megan.initai/latest)
