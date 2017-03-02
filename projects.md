@@ -8,7 +8,9 @@ permalink: /projects/
 
 ### Init.ai
 
-I work at [Init.ai](http://init.ai), building machine learning tools and backend infrastructure.  
+I work at [Init.ai](http://init.ai).
+
+I build machine learning tools and backend infrastructure. 
 
 ![Alt text](/images/klab.png)
 
