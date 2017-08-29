@@ -90,14 +90,7 @@
 }
 
 .page-background{
-	background-image: url("http://www.homestarrunner.com/wallpapers/macbkgd2.gif");
-	z-index: -1;
-	position: absolute;
-
-	height: 85vh;
-	width: 100vw;
-	background-size:cover;
-	background-position: center bottom;
+	background: $white;
 }
 
 /* centering content */
@@ -231,7 +224,7 @@ nav{
 }
 
 .content-wrapper{
-	max-width: calc(800px - (15px * 2));
+	max-width: calc(920px - (15px * 2));
 	min-height: calc(100vh - 116px - 53px);
 	margin-right: auto;
 	margin-left: auto;
@@ -242,7 +235,7 @@ nav{
 }
 
 .content-wrapper h1 {
-  font-family: 'Raleway'; 
+  font-family: 'Lato', sans-serif; 
   font-weight: 900;
   font-size: 28px;
   letter-spacing: 1px;
@@ -251,7 +244,7 @@ nav{
 }
 
 h3 {
-  font-family: 'Raleway'; 
+  font-family: 'Lato', sans-serif; 
   font-weight: 900;
   font-size: 20px;
   letter-spacing: 1px;
