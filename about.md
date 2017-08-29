@@ -17,6 +17,3 @@ Natural language processing, machine learning, artificial intelligence, statisti
 
 Making cool things, linguistic theory, Terrace House, iced coffee, intersectional feminism
 
-### Resources
-
-[Shoot me an e-mail](mailto:meg.rose.barnes@gmail.com)
