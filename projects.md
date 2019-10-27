@@ -4,23 +4,26 @@ title: Projects
 permalink: /projects/
 ---
 
-![Alt text](/images/Screen Shot 2017-03-01 at 10.15.20 PM.png)
+### Clinical Informatics Research Group
+
+I am currently a research assistant with [CIRG](https://www.cirg.washington.edu) at UW.  Our research centers around event detection in clinical notes.
+
+### Siri Natural Language Understanding
+
+I spent two years at Apple on Siri's core NLU team.
 
 ### Init.ai
 
-I work at [Init.ai](http://init.ai).
-
-I build machine learning tools and backend infrastructure. 
+I worked at a start-up called Init.ai where I built intent-classification and slot-filling modeling tools along with backend infrastructure. 
 
 ### Knowledge Lab
 
-I have worked for Knowledge Lab, part of the Computation Institute through The University of Chicago and Argonne National Laboratory.  Projects I worked on included:
+During my undergrad I was a research assistant for [Knowledge Lab](https://www.knowledgelab.org), part of the Computation Institute through The University of Chicago and Argonne National Laboratory.  Projects I worked on included:
 
 * Creating maps of research activity in key topical areas of interest to research funding agencies. The maps could reveal and help funders analyze a) levels of research activity, b) who is participating, c) and in which topics.
 
 * Creating a network of Wikipedia editors based on their activity on political and science pages in order to uncover insights about how political leanings affect the propogation of scientific knowledge.
 
-
-### Also...
+### And...
 
 [My repository contributions](http://github.com/meganbarnes)
