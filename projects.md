@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-
+&nbsp;
 
 ### Clinical Informatics Research Group
 
