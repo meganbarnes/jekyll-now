@@ -3,15 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
-I studied linguistics and computer science at the University of Chicago.  I completed my BA in 2016.    
-    
-I'm interested in what computational models can tell us about ourselves.  I'm passionate about language and data.  My focus is natural language processing, but I'm jazzed about any and all ways to draw meaningful conclusions about humans from data. 
+I'm a PhD student in Computational Linguistics at the University of Washington.  Before that, I was a senior machine learning engineer at Siri.  I received my BA in Linguistics and Computer Science from the University of Chicago in 2016.  
 
-![Me](/images/photo.jpg)
+A few of my interests are representation learning for text, latent structure models, and multilingual NLP.  I am broadly interested in how what we understand about language can inform modeling techniques and vice versa.
+
+![Me](/images/photo2017.jpg)
 
 ### Professional Interests
 
-Natural language processing, machine learning, artificial intelligence, statistical models, prediction algorithms, corpus analytics, speech recognition and analysis, data visualization.
+Natural language processing, machine learning, statistical models, corpus analytics, speech recognition and analysis
 
 ### Other Interests
 
