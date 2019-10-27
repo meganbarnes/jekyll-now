@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+
+
 ### Clinical Informatics Research Group
 
 I am currently a research assistant with [CIRG](https://www.cirg.washington.edu) at UW.  Our research centers around event detection in clinical notes.
