@@ -15,5 +15,5 @@ Natural language processing, machine learning, statistical models, corpus analyt
 
 ### Other Interests
 
-Making cool things, linguistic theory, Terrace House, iced coffee, intersectional feminism
+Making cool things, sourdough, linguistic theory, Terrace House, iced coffee, intersectional feminism
 
