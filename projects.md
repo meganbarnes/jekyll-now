@@ -10,7 +10,7 @@ I am currently a research assistant with [CIRG](https://www.cirg.washington.edu)
 
 ### Siri Natural Language Understanding
 
-I spent two years at Apple on Siri's core NLU team.
+I spent two years at Apple as a machine learning engineer on Siri's core NLU team.
 
 ### Init.ai
 
